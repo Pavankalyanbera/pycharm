@@ -11,3 +11,5 @@ def sort(nums):
 nums=[3,8,4,9,0,6,5]
 sort(nums)
 print(nums)
+
+print("thank you")
